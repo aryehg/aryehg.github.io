@@ -1,0 +1,47 @@
+
+body{
+	background-color: #ff6666;
+}
+.pageborder{
+	background-color:#ffe6e6;
+	border:1% solid #ff6666;
+}
+.bsd{
+		color:red;
+		text-shadow: 2px 2px #ff6666;
+}
+.homename{
+		color:red;
+	border:5px solid red;
+		text-shadow: 5px 5px #ff6666;
+	box-shadow:inset 0px 0px 40px #ff6666;
+}
+.bisiyata{
+		color:red;
+	text-shadow: 2px 2px #ff6666;
+}
+.answer{
+		color:red;
+	text-shadow: 0px 0px 100px white;
+}
+.picture{
+		border:2px solid #ff6666;
+	box-shadow:0px 0px 40px #ff6666;
+}
+.ois{
+		color:red;
+		border:5px solid red;
+		text-shadow: 5px 5px #ff6666;
+	box-shadow:inset 0px 0px 40px #ff6666;
+}
+.navigation a{
+		color:red;
+	border:3px solid red;
+		text-shadow: 2px 2px #ff6666;
+	box-shadow:inset 0px 0px 40px #ff6666;
+}
+
+.four{
+color:red;
+text-shadow:3px 3px #ff6666;
+}

@@ -1,0 +1,49 @@
+
+body{
+    background-color:#6699ff;
+}
+.pageborder{
+    background-color:#ccdcff;
+    border:1% solid #6699ff;
+}
+.bsd{
+				color:#003399;
+	text-decoration:underline;
+	    text-shadow: 2px 2px #6699ff;
+}
+.homename{
+		color:#003399;
+	border:5px solid #003399;
+text-shadow: 5px 5px #6699ff;
+box-shadow:inset 0px 0px 40px #6699ff;
+}
+.bisiyata{
+		color:#003399;
+	text-decoration:underline;
+	    text-shadow: 2px 2px #6699ff;
+}
+.answer{
+		color:#003399;
+	text-shadow: 0px 0px 100px white;
+}
+.picture{
+		border:2px solid #003399;
+	box-shadow:0px 0px 40px #003399;
+}
+.ois{
+		color:#003399;
+		border:5px solid #003399;
+		text-shadow: 5px 5px #6699ff;
+	box-shadow:inset 0px 0px 40px #6699ff;
+}
+.navigation a{
+		color:#003399;
+	border:3px solid #003399;
+		text-shadow: 2px 2px #6699ff;
+	box-shadow:inset 0px 0px 40px #6699ff;
+}
+
+.four{
+color:#003399;
+text-shadow:3px 3px  #6699ff;
+}
